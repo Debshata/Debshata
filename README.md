@@ -4,7 +4,7 @@
 
 I build **AI, Machine Learning, Data Engineering, and Quantum Computing solutions** that transform complex data and computational problems into measurable real-world outcomes.
 
-🎓 I am pursuing dual degrees in **B.S. Data Science at IIT Madras** and **B.Tech Computer Science at Amity University**. My work spans applied machine learning, big-data engineering, deep learning, quantum computing, and optimization, with experience building systems for finance, logistics, climate resilience, healthcare, and scientific discovery.
+🎓 I am pursuing dual degrees in **B.S. Data Science at IIT Madras** and **B.Tech Computer Science at Amity University Noida**. My work spans applied machine learning, big-data engineering, deep learning, quantum computing, and optimization, with experience building systems for finance, logistics, climate resilience, healthcare, and scientific discovery.
 
 ⚛️ I am also an **IBM Qiskit Advocate**, contributing to Quantum Machine Learning research and the Qiskit open-source ecosystem.
 
