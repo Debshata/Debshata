@@ -190,22 +190,6 @@ Analyzed learning outcomes for **500+ participants** and developed Looker Studio
 
 ---
 
-# 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Debshata&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
-
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Debshata&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Debshata&theme=tokyonight&hide_border=true&layout=compact)
-
----
-
-## 🏆 Top Contributed Repositories
-
-![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=Debshata&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
----
-
 ### 🌐 Explore My Work
 
 For a detailed overview of my **projects, research, experience, education, skills, and recommendations**, visit my portfolio:
